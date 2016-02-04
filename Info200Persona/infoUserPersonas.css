@@ -1,0 +1,78 @@
+body {
+  background-image: url("footer_lodyas.png");
+  text-align: center;
+  font-family: sans-serif;
+  color: white;
+}
+ol {
+  align-items: center;
+  list-style-position: inside;
+}
+
+#stakeholderList {
+  font-size: 28pt;
+}
+
+h1 {
+  font-size: 34pt;
+}
+
+h2 {
+  font-size: 28pt;
+}
+
+
+.userPersona {
+  border: 5px solid #BDBDBD;
+  background-color: white;
+  float: center;
+  padding: 15px;
+  margin: auto;
+  overflow: hidden;
+  margin-left:20%;
+  margin-right: 20%;
+  color: black;
+  box-shadow: 15px;
+}
+
+.userPersona > img {
+  float: left;
+  padding: 0;
+}
+
+.userPersona.h2 {
+  float: left;
+  padding-left: 25px;
+  padding-top: auto;
+}
+
+.userPersona >  h3 {
+  float: left;
+  padding-left: 25px;
+}
+
+.biography {
+  text-align: left;
+  float: left;
+  padding-left: 25px;
+}
+q {
+  padding: 5px;
+  font-style: italic;
+  font-size: 22pt;
+}
+
+.restOfInfo {
+  float: left;
+  padding-left: 5%;
+  text-align: left;
+  clear: left;
+}
+
+.goalList {
+  font-size: 15pt;
+}
+
+#davidOlsenPic {
+
+}
