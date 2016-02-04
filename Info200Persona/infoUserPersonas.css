@@ -29,8 +29,8 @@ h2 {
   padding: 15px;
   margin: auto;
   overflow: hidden;
-  margin-left:20%;
-  margin-right: 20%;
+  margin-left:5%;
+  margin-right: 5%;
   color: black;
   box-shadow: 15px;
 }
@@ -48,13 +48,13 @@ h2 {
 
 .userPersona >  h3 {
   float: left;
-  padding-left: 25px;
+  padding-left: 10px;
 }
 
 .biography {
   text-align: left;
   float: left;
-  padding-left: 25px;
+  padding-left: 10px;
 }
 q {
   padding: 5px;
@@ -71,8 +71,4 @@ q {
 
 .goalList {
   font-size: 15pt;
-}
-
-#davidOlsenPic {
-
 }
